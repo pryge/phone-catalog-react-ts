@@ -49,18 +49,27 @@ You can view the project layout in Figma here: [link](https://www.figma.com/desi
 ```bash
 git clone https://github.com/pryge/phone-catalog-react-ts.git
 cd phone-catalog-react-ts
+```
 
 2. Install dependencies:
+```bash
 npm install
+```
 
 3. Start the development server:
+```bash
 npm start
+```
 
 4. Build the project for production:
+```bash
 npm run build
+```
 
-5. Deploy to GitHub Pages:
+6. Deploy to GitHub Pages:
+```bash
 npm run deploy
+```
 
 ---
 
