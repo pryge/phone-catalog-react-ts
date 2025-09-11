@@ -9,6 +9,8 @@ import 'swiper/css/scrollbar';
 import './Banner.scss';
 import { NavLink } from 'react-router-dom';
 
+//I love codding ^_^
+
 type SwRef = SwiperRef & {
   slidePrev: VoidFunction;
   slideNext: VoidFunction;
