@@ -38,7 +38,7 @@ export const ProductsSlider: React.FC<Props> = ({ products, fullPrice }) => {
           }}
           disabled={isDisabledPrev}
         >
-          <img src="/img/icons/SliderLeft.svg" />
+          <img src="/src/IconsSVG/SliderLeft.svg" />
         </button>
         <button
           className={cn(
@@ -53,7 +53,7 @@ export const ProductsSlider: React.FC<Props> = ({ products, fullPrice }) => {
           }}
           disabled={isDisabledNext}
         >
-          <img src="/img/icons/SliderRight.svg" />
+          <img src="/src/IconsSVG/SliderRight.svg" />
         </button>
       </div>
       <Swiper

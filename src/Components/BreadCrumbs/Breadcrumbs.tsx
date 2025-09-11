@@ -38,7 +38,7 @@ export const Breadcrumbs = () => {
                 {breadcrumb}
               </NavLink>
               <img
-                src="/img/icons/SliderRight.png"
+                src="/src/IconsSVG/SliderRight.svg"
                 className="breadcrumb__slider"
               />
             </div>
