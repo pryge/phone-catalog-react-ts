@@ -3,7 +3,7 @@ import './Loader.scss';
 export const Loader = () => {
   return (
     <div className="loader">
-      <img src="img/loader/LoaderTransp.svg" />
+      <img src="img/icons/LoaderTransp.svg" />
     </div>
   );
 };
