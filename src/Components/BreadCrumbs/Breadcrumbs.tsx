@@ -8,7 +8,7 @@ const routes = [
     path: '/',
     breadcrumb: () => (
       <img
-        src="/img/icons/Home.png"
+        src="img/icons/Home.png"
         alt="Home"
         style={{ width: 14, height: 14 }}
       />
