@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
 
-  background-image: url('img/icons/Favourites.png');
+  background-image: url('/img/icons/Favourites.png');
   background-repeat: no-repeat;
   background-position: center;
   border: 1px solid $color-elements;
@@ -19,6 +19,6 @@
   }
 
   &--liked {
-    background-image: url(img/icons/Favourites-liked.png);
+    background-image: url(/img/icons/Favourites-liked.png);
   }
 }
