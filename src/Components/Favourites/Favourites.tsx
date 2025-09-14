@@ -26,7 +26,7 @@ export const Favourites: FC<{
         onClick={onClose}
       >
         <img
-          src="./img/icons/Favourites.png"
+          src="img/icons/Favourites.png"
           alt="Favourites items"
           className="favourites__image"
         />

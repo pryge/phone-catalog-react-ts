@@ -26,7 +26,7 @@ export const ShopingBag: FC<{
         onClick={onClose}
       >
         <img
-          src="./img/icons/ShopingBag.png"
+          src="img/icons/ShopingBag.png"
           alt="Shoping Bag"
           className="shoping-bag__img"
         />
